@@ -20,13 +20,13 @@ const projects: Project[] = [
     title: "3DMS",
     description: "A full-stack clinical case management application  built with Angular, Node.js, and MySql.",
     images: [
-      "/images/dm2.PNG",
-      "/images/dm1.PNG",
-      "/images/dm3.PNG",
-      "/images/dm4.PNG",
-      "/images/dms5.PNG",
-      "/images/dms6.PNG",
-      "/images/dms7.PNG"
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/dm2.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/dm1.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/dm3.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/dm4.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/dms5.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/dms6.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/dms7.PNG"
 
     ],
     tags: ["Angular", "Node.js"]
@@ -36,11 +36,11 @@ const projects: Project[] = [
     title: "Management system for civil engineering projects",
     description: "A management system for civil engineering projects with large-scale data handling.",
     images: [
-      "/images/Tender1.PNG",
-      "/images/tender2.PNG",
-      "/images/tend3.PNG",
-      "/images/tend4.PNG",
-      "/images/ten5.PNG"
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/Tender1.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/tender2.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/tend3.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/tend4.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/ten5.PNG"
 
     ],
     tags: ["Angular", "Node.js"]
@@ -50,14 +50,14 @@ const projects: Project[] = [
     title: "A logistics application",
     description: "Logistics management application – currently in development, focused on improving delivery tracking.",
     images: [
-      "/images/transpo.PNG",
-      "/images/transpor2.PNG",
-      "/images/transport3.PNG",
-      "/images/transpr4.PNG",
-      "/images/transporta5.PNG",
-      "/images/tanspor6.PNG",
-      "/images/transpo7.PNG",
-      "/images/transpor8.PNG"
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/transpo.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/transpor2.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/transport3.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/transpr4.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/transporta5.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/tanspor6.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/transpo7.PNG",
+      "https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main/images/transpor8.PNG"
 
     ],
     tags: ["Angular", ".Net"]
@@ -75,7 +75,7 @@ function App() {
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative text-center text-white px-4">
 <div className="w-48 h-48 md:w-56 md:h-56 mx-auto mb-8 rounded-full overflow-hidden border-4 border-white shadow-xl">            <img
-              src="\images\profile.JPG"
+              src="https://raw.githubusercontent.com/dalibelhaj/PortfolioApp/refs/heads/main\images\profile.JPG"
               alt="Profile"
               className="w-full h-full object-cover"
             />
